@@ -1,0 +1,9 @@
+rootProject.name = 'FinalMultiproject'
+include 'service-users'
+include 'service-movies'
+include 'service-showtimes'
+include 'service-bookings'
+include 'service-config'
+include 'service-register'
+include 'service-admin'
+
